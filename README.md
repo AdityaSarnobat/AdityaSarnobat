@@ -1,25 +1,97 @@
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Aditya Sarnobat</h1>
-<h3 align="center">Hi, I'm Aditya. A Java Full Stack Developer passionate about building things with code. This is where I share my projects, which currently focus on Spring Boot, RESTful services, and modern Java development. Take a look around!</h3>
+<h3 align="center">A Passionate Java Full Stack Developer | Spring Boot | MySQL | REST APIs</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasarnobat&label=Profile%20views&color=0e75b6&style=flat" alt="adityasarnobat" /> </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/aditya-sarnobat-9a9785316">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/AdityaSarnobat">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
+  </a>
+</div>
 
-- 🔭 I’m currently working on **Lms Platform**
+---
 
-- 🌱 I’m currently learning **Spring boot, Collections,**
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AdityaSarnobat.AdityaSarnobat" />
+</div>
 
-- 👯 I’m looking to collaborate on **Backend Development**
+---
 
-- 💬 Ask me about **Java, Spring Boot MySql**
+### 👨‍💻 About Me
 
-- 📫 How to reach me **aysarnobat1@gmail.com**
+- 🔭 I’m currently seeking software development roles to contribute efficient and testable code  
+- 🎓 Graduate in Electronics and Telecommunication from TKIT, Kolhapur (2024)  
+- 🧠 Trained in Java Full Stack Development at KodNest Technologies  
+- 💡 I love building scalable Java backend systems and interactive web apps  
+- ⚡ Fun Fact: I’m a quick learner and football enthusiast  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### 🛠️ Skills & Tools
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasarnobat&show_icons=true&locale=en&layout=compact" alt="adityasarnobat" /></p>
+**Languages**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasarnobat&" alt="adityasarnobat" /></p>
+**Frameworks & Libraries**  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%23430098.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+
+**Database & Tools**  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 🧪 Projects
+
+#### 💼 Sales Savvy – E-commerce Platform  
+- Java, Spring MVC, Hibernate, JDBC  
+- Razorpay Payment Gateway | Admin, Inventory & Customer Modules  
+- Multithreading used for Order Processing
+
+#### 🤖 Research AI Assistant – AI-Powered Tool  
+- Spring Boot Web App | Google Gemini API | Thymeleaf  
+- Real-time AI summarization and UI rendering
+
+---
+
+### 🎯 Training & Certifications
+
+**Java Full Stack Developer - KodNest (Aug 2024 – Mar 2025)**  
+- Core Java, Spring Boot, REST APIs, Exception Handling, MySQL, Microservices  
+- Capstone Projects | Agile Practices | Razorpay Integration
+
+---
+
+### 🏅 Leadership & Extra Curriculars
+
+- 💼 Departmental Head, EUREKA Sponsorship Team  
+- 💰 Treasurer, ETSA  
+- 🪖 NCC CAMP Participant (ATC 2022)  
+- 🏆 2nd Prize – Tiki-Taka Football Championship  
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AdityaSarnobat&theme=dark&hide_border=false&border_radius=5" height="200" />
+</div>
+
+---
+
+### 📫 Contact Me
+- 📧 Email: aysarnobat1@gmail.com  
+- 📍 Location: Bangalore, India  
