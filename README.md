@@ -1,5 +1,3 @@
-<!-- 🖼️ Banner (optional: replace with your own hosted image) -->
-<img src=["https://i.imgur.com/q3QkYjv.png](https://www.google.com/imgres?q=linkedin%20banner%20images&imgurl=https%3A%2F%2Fwww.x-zell.com%2Fwp-content%2Fuploads%2F2022%2F08%2FBlue-Geometric-Technology-LinkedIn-Banner-1.png&imgrefurl=https%3A%2F%2Fwww.x-zell.com%2Fblue-geometric-technology-linkedin-banner-1%2F&docid=-Zm0wz6ET2E9vM&tbnid=uxV02pLsnP7A3M&vet=12ahUKEwi2irfL-_eNAxU_n2MGHR-LKAkQM3oECFAQAA..i&w=1584&h=396&hcb=2&ved=2ahUKEwi2irfL-_eNAxU_n2MGHR-LKAkQM3oECFAQAA)" width="100%" height="250"/>
 
 <h1 align="center">Hi 👋, I'm Aditya Sarnobat</h1>
 <h3 align="center">A Passionate Java Full Stack Developer | Spring Boot | MySQL | REST APIs</h3>
